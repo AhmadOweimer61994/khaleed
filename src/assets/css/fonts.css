@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GreyQo-Regular';
+    src: url('@/assets/fonts/GreyQo-Regular.ttf') format('truetype');
+
+  }
+@font-face {
+    font-family: 'LibreBaskerville-Regular';
+    src: url('@/assets/fonts/LibreBaskerville-Regular.ttf') format('truetype');
+
+  }
